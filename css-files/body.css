@@ -1,0 +1,157 @@
+body{
+    margin:auto;
+    width:83%;
+    padding-top: 50px;
+}
+
+.news-body{
+    position:relative;
+    float: left;
+    width: 72%;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+
+hr{
+    background-color:rgb(241, 233, 233) ;
+
+}
+
+.first-part{
+    font-family: Graphik,sans-serif;
+    font-weight:bold;
+    font-size: .6875rem;
+    margin: 0px;
+    box-sizing: border-box;
+    
+}
+.first-part ul{
+    list-style-type: none; /*Elimina los items laterales*/
+    padding: 0px;
+    overflow:hidden;
+    
+}
+.first-part li{
+    display: inline;
+    font-weight: bold;
+    color:black;
+}
+.first-part time{
+    display: inline;
+    float: right;
+    color: #6f6f6f;
+}
+.first-part a{
+    text-decoration: none;
+    color: black;
+}
+.first-part a:hover{
+    color:#d32531;
+}
+
+.news-title{
+    margin: 0;
+    box-sizing: border-box;
+    width: 98%;
+}
+.news-title h1{
+    font-family: Graphik,sans-serif;
+    font-weight:900;
+    letter-spacing: -1px;
+    font-size: 2.150rem;
+    line-height: 2.8125rem;
+    margin-bottom: 8px;
+
+}
+.news-title h2{
+    font-family: Graphik,sans-serif;
+    font-weight:600;
+    letter-spacing: -1px;
+    font-size: 1.1875rem;
+    line-height: 1.4375rem;
+    margin-top: 8px;
+
+}
+
+.kory{
+    font-family: Graphik,sans-serif;
+    font-weight: bold;
+    font-size: .875rem;
+    text-decoration: none;
+    color: #d32531;
+   
+}
+.pre-content ul{
+    list-style-type: none; /*Elimina los items laterales*/
+    padding: 0px;
+    overflow:hidden;
+}
+.pre-content li{
+    display: inline;
+}
+
+.fa {
+    padding: 5px 10px;
+    
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    float: right;
+    
+  }
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  .fa-reddit {
+    background: #ff5700;
+    color: white;
+  }
+
+  .images{
+    font-size: .875rem;
+    line-height: 1.20rem;
+    color: #000;
+    font-family: Graphik,sans-serif;
+    font-weight: 600
+
+  }
+  .images p{
+      margin: 0;
+  }
+
+  section{
+    font-size: 1.125rem;
+    line-height: 1.75rem;
+    font-family: Georgia,Times,Times New Roman,serif;
+    width: 80%;
+    margin: auto;
+    text-align: left;
+  }
+  section a{
+    text-decoration: none;
+    color: #d32531;
+    font-weight: bold;
+  }
+
+.youtube{
+    margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+  h4{
+      margin-bottom: 0px;
+  }
+
+  p{
+      margin-top: 0px;
+  }

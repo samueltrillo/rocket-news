@@ -1,0 +1,28 @@
+#navbar ul{
+    list-style-type: none; /*Elimina los items laterales*/
+    padding: 0px;
+    overflow:hidden;
+    margin:13px;
+  }
+
+#navbar li{
+    display: inline;
+    font-weight: bold;
+    color:black;
+  
+    
+}
+#navbar a{
+    font-family: Graphik,sans-serif;
+    font-weight: bold;
+    font-size: .875rem;
+    text-decoration: none;
+    color:black;
+    padding: 0px 25px;
+    position: relative;
+    left:55px
+}
+#navbar a:hover{
+    color:#d32531; 
+}
+
